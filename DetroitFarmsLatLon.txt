@@ -1,0 +1,612 @@
+Last updated:  Fri Nov 20 11:15:22 2015
+------------------------------------
+
+Dreams Come True, 42.396736, -83.14152
+West End, 42.5065, -83.35363
+Van Dyke and Knodell, 42.5065, -83.35363
+Royal Oak Farm, 42.488735, -83.13752
+Operation Get Down, 42.5065, -83.35363
+Midland/Princeston, 42.5065, -83.35363
+Martha Ann, 42.5065, -83.35363
+Kettering High School, 42.395904, -82.99632
+Herman Kiefer Complex, 42.375237, -83.07837
+Gateway, 42.5065, -83.35363
+Fox 2 News, 42.567543, -83.149978
+Elmhurst Home, 42.375787, -83.10849
+E. Grand Blvd & Lafayette, 42.5065, -83.35363
+Cutters Bar and Grill, 42.352837, -83.02449
+Christian Guidance Center, 42.421936, -83.09981
+Christian Guidance Center, 42.5065, -83.35363
+Central High School, 42.536402, -82.95044
+Boys & Girls Club, 42.338137, -83.12785
+Birmingham Temple, 42.5065, -83.35363
+Care N Share, 42.365337, -83.14254
+The Brown's, 42.348937, -83.08994
+Linwood & Clairmount, 42.375787, -83.10849
+Mema's Doll, 42.426786, -83.14969
+Pettie's Playground, 42.375787, -83.10849
+The CH Garden, 42.410037, -83.05826
+serenity, 42.410487, -82.94348
+my lil piece of heaven, 42.410487, -82.94348
+julian st communiti garden, 42.365337, -83.14254
+Carter, 42.375787, -83.10849
+Connies Creations, 42.425236, -83.24902
+cumbarland garden, 42.421936, -83.09981
+Jsglgt, 42.421936, -83.09981
+Glo, 42.394586, -83.24422
+Edible, 42.410037, -83.05826
+The Joy Garden, 42.394586, -83.24422
+brown&green, 42.379019, -83.04483
+Care N Share Community Garden, 42.365337, -83.14254
+Midaz, 42.427636, -83.19547
+Northend Neighborhood Patrol, 42.375237, -83.07837
+special food garden, 42.432686, -83.04422
+Tyron, 42.343787, -83.05879
+Healthy Place, 42.375787, -83.10849
+Mamma Mays, 42.425236, -83.24902
+Fast food, 42.426786, -83.14969
+Mary, 42.426786, -83.14969
+NO, 42.388786, -83.1918
+Beautiful, 42.388786, -83.1918
+Nameless, 42.427636, -83.19547
+Sweet Cookie, 42.375787, -83.10849
+Pathfinder, 42.396736, -83.14152
+Gloria, 42.427636, -83.19547
+Ruby, 42.396736, -83.14152
+Terrence Place, 42.355437, -83.21722
+Luther, 42.396736, -83.14152
+Resha's Love, 42.375787, -83.10849
+Veggie Garden, 42.427636, -83.19547
+Love Garden, 42.375787, -83.10849
+Picka, 42.425236, -83.24902
+Nameless, 42.355437, -83.21722
+Garden of Love, 42.426786, -83.14969
+good stuff, 42.427636, -83.19547
+Reece&jenning, 42.348937, -83.08994
+Richardson-Bey, 42.426786, -83.14969
+Sasha, 42.427636, -83.19547
+Girlfriends Place, 42.331427, -83.0457538
+Horn of Plenty, 42.425236, -83.24902
+D.A.R., 42.426786, -83.14969
+Bostic, 42.396736, -83.14152
+Brown, 42.426786, -83.14969
+Little John, 42.410037, -83.05826
+Green's Haven, 42.426786, -83.14969
+Household, 42.432686, -83.04422
+The hawk, 42.425236, -83.24902
+Marie, 42.425236, -83.24902
+Joe, 42.375787, -83.10849
+Mama Mays, 42.425236, -83.24902
+no name, 42.426786, -83.14969
+Mary, 42.425236, -83.24902
+Ms. Jackson, 42.388786, -83.1918
+nope, 42.427636, -83.19547
+sweet cookie, 42.427636, -83.19547
+warden, 42.427636, -83.19547
+turners choice, 42.396736, -83.14152
+Terrence Place, 42.396736, -83.14152
+willow, 42.396736, -83.14152
+Turnip, 42.379019, -83.04483
+Blessed Garden, 42.410037, -83.05826
+Greedy, 42.427636, -83.19547
+Spicey, 42.410037, -83.05826
+HA HA MO, 42.388786, -83.1918
+Rosemary's Garden, 42.375787, -83.10849
+cupboard garden, 42.375787, -83.10849
+Terry's Plce, 42.388786, -83.1918
+Whitaker Square, 42.269288, -83.13676
+Mark Twain, 42.388786, -83.1918
+Fancy Garden, 42.410037, -83.05826
+Midas Touch, 42.427636, -83.19547
+sunshine, 42.396736, -83.14152
+Pringle Gardens, 42.427636, -83.19547
+Sam, 42.427636, -83.19547
+Reevson Garden, 42.426786, -83.14969
+Julie's Heart, 42.466086, -82.94641
+Thoms Place, 42.410037, -83.05826
+Blessed, 42.375787, -83.10849
+flovierty, 42.396736, -83.14152
+Mean Green, 42.388786, -83.1918
+gigi, 42.375787, -83.10849
+fiftyone, 42.239933, -83.150823
+galleria, 42.375237, -83.07837
+No-Name, 42.375237, -83.07837
+not named, 42.365337, -83.14254
+Berndette Gardens, 42.239933, -83.150823
+Grandmas Garden, 42.396736, -83.14152
+2 baby mama garden, 42.432686, -83.04422
+CB's Place, 42.388786, -83.1918
+Thumbs UP, 42.394586, -83.24422
+Eddie Garden, 42.426786, -83.14969
+Lot of Love, 42.375787, -83.10849
+Craig's Greenway, 42.427636, -83.19547
+Pleasely Plum, 42.378287, -82.95243
+IDK, 42.396736, -83.14152
+Bird, 42.396736, -83.14152
+Lovely, 42.396736, -83.14152
+Peace, 42.396736, -83.14152
+Detroit  Finest, 42.396736, -83.14152
+meme, 42.396736, -83.14152
+Sisters, 42.365337, -83.14254
+Friends, 42.365337, -83.14254
+Baily Bail, 42.348937, -83.08994
+My Place, 42.355437, -83.21722
+Kevin's Garden of Love, 42.343787, -83.05879
+My Gardent, 42.243488, -83.18097
+MY Own, 42.375787, -83.10849
+George, 42.239933, -83.150823
+big girl, 42.460986, -83.13398
+cooper, 42.379019, -83.04483
+Behye's Farm, 42.239933, -83.150823
+12th street missionay youth garden, 42.396736, -83.14152
+Boston Gardens, 42.239933, -83.150823
+Penn Garden, 42.239933, -83.150823
+wayne.t.pie, 42.365337, -83.14254
+We Grow, 42.239933, -83.150823
+w.mib, 42.388786, -83.1918
+Clarke Garden, 42.239933, -83.150823
+Shugg, 42.348937, -83.08994
+Vip, 42.365337, -83.14254
+Cooper, 42.239933, -83.150823
+nono, 42.365337, -83.14254
+Thomas Garden, 42.239933, -83.150823
+Thomas Garden, 42.239933, -83.150823
+Ethel Garden, 42.375237, -83.07837
+Big Boy, 42.239933, -83.150823
+Evers Place, 42.396736, -83.14152
+Matt, 42.239933, -83.150823
+Brown, 42.328338, -83.07805
+Little John, 42.239933, -83.150823
+Bevs Place, 42.426786, -83.14969
+Leah's hand, 42.427636, -83.19547
+FAB 8, 42.355437, -83.21722
+Sunshine, 42.239933, -83.150823
+Pringle Gardens, 42.378287, -82.95243
+Shreve Garden, 42.394586, -83.24422
+Sellford Greens, 42.368137, -82.99314
+Evers Place, 42.375237, -83.07837
+Compassion, 42.426786, -83.14969
+Frances, 42.378287, -82.95243
+GBU, 42.432686, -83.04422
+St.Marys, 42.375787, -83.10849
+Ellison, 42.375787, -83.10849
+GBU, 42.378287, -82.95243
+Corridor Crops, 42.427636, -83.19547
+The Garden, 42.239933, -83.150823
+My Garden, 42.427636, -83.19547
+Elmhurst, 42.378287, -82.95243
+Kevins Garden Of Love, 42.239933, -83.150823
+Rutherford Garden, 42.239933, -83.150823
+My Own, 42.239933, -83.150823
+My Garden, 42.395904, -82.99632
+GG, 42.328338, -83.07805
+12th Street Missionary Youth Garde, 42.20649, -83.35297
+Wayne&Pie, 42.20649, -83.35297
+Boston Gardens, 42.348937, -83.08994
+Fred, 42.375787, -83.10849
+VW Garden, 42.239933, -83.150823
+VW Garden, 42.388786, -83.1918
+Nikki, 42.239933, -83.150823
+Purdy Girls, 42.426786, -83.14969
+E&S, 42.396736, -83.14152
+My Brothers, 42.331821, -83.04888
+BS, 42.239933, -83.150823
+Tre, 42.410487, -82.94348
+Little Man, 42.239933, -83.150823
+Mickey D, 42.239933, -83.150823
+Little Lambs, 42.239933, -83.150823
+Tonys, 42.20649, -83.35297
+Bam, 42.239933, -83.150823
+Elaine Elaine, 42.375237, -83.07837
+RayRay, 42.368137, -82.99314
+Dave, 42.239933, -83.150823
+Jayhawks, 42.239933, -83.150823
+Betty Boop, 42.375787, -83.10849
+Tonl Tony, 42.239933, -83.150823
+Boom, 42.352837, -83.02449
+Fox, 42.239933, -83.150823
+Hip Hop, 42.239933, -83.150823
+SONYA, 42.239933, -83.150823
+Amazing, 42.239933, -83.150823
+Pebbies, 42.239933, -83.150823
+JoJo, 42.239933, -83.150823
+Judge Mathis Community Center, 42.427636, -83.19547
+Cabbage Patch Youth Garden, 42.355437, -83.21722
+Well Place, 42.396736, -83.14152
+Honey Bees, 42.410037, -83.05826
+Bina's place, 42.426786, -83.14969
+Seen, 42.396736, -83.14152
+Dream's big garden, 42.388786, -83.1918
+Beautiful, 42.331821, -83.04888
+Milss little acre, 42.426786, -83.14969
+HERBS, 42.239933, -83.150823
+Mills Garden, 42.239933, -83.150823
+culeb, 42.239933, -83.150823
+TB Place, 42.348937, -83.08994
+James Place, 42.365337, -83.14254
+Brush St. Community Garden and Hostel, 42.375237, -83.07837
+Cooper Growth, 42.348937, -83.08994
+w.m.b, 42.378287, -82.95243
+myplace, 42.375787, -83.10849
+VIP, 42.343787, -83.05879
+good food, 42.348937, -83.08994
+Compassion, 42.395904, -82.99632
+no name, 42.375787, -83.10849
+GBU garden, 42.375787, -83.10849
+n/a, 42.352837, -83.02449
+no name, 42.239933, -83.150823
+Corridor Crops, 42.343787, -83.05879
+The Garden, 42.343787, -83.05879
+n/a, 42.269288, -83.13676
+n/a, 42.375787, -83.10849
+mels garden, 42.425236, -83.24902
+happy garden, 42.394586, -83.24422
+my piece of heav en, 42.396736, -83.14152
+no name, 42.239933, -83.150823
+blessed garden, 42.307088, -83.11467
+none, 42.352837, -83.02449
+n/a, 42.427636, -83.19547
+gravely garden, 42.239933, -83.150823
+none, 42.410037, -83.05826
+hememe, 42.239933, -83.150823
+Corky, 42.396736, -83.14152
+Judge Judy, 42.396736, -83.14152
+judges place, 42.396736, -83.14152
+Ausbrooks haven, 42.388786, -83.1918
+Dirty fun, 42.239933, -83.150823
+urban garden, 42.378287, -82.95243
+college garden, 42.426786, -83.14969
+Shadymcgrady, 42.343787, -83.05879
+Reevesen Garden, 42.426786, -83.14969
+RO, 42.388786, -83.1918
+b's place, 42.396736, -83.14152
+no name, 42.396736, -83.14152
+no name, 42.410037, -83.05826
+Gladstone and Linwood, 42.375787, -83.10849
+THE MIRACLOUS COME BACK!, 42.396736, -83.14152
+glenn family garden, 42.396736, -83.14152
+Theresa Maxi garden, 42.355437, -83.21722
+lamario's place, 42.355437, -83.21722
+Corr's place, 42.396736, -83.14152
+The Norman Clark Garden, 42.375787, -83.10849
+Plantscapers Choice, 42.421936, -83.09981
+Brush Street Community Garden and North End Cooperative, 42.280887, -83.79147
+Sharee's Patch on the Corner., 42.410037, -83.05826
+ortega urban farms, 42.365337, -83.14254
+The Peoples Garden, 42.348937, -83.08994
+Hoop Tunnel, 42.375787, -83.10849
+Garden of Hope, 42.365337, -83.14254
+Tom's Garden, 42.432686, -83.04422
+Jimmy's, 42.410487, -82.94348
+crystals', 42.388786, -83.1918
+my garden, 42.338137, -83.12785
+grita, 42.368137, -82.99314
+shari's urban patch, 42.410037, -83.05826
+WILLIAMS GARDEN, 42.365337, -83.14254
+kysers, 42.425236, -83.24902
+Angie's Garden, 42.338137, -83.12785
+kysers, 42.425236, -83.24902
+Tiffany 's, 42.410487, -82.94348
+Tiffany 's, 42.410487, -82.94348
+Shari's Urban Patch, 42.410037, -83.05826
+Shari's Urban Patch, 42.410037, -83.05826
+Mable, 42.421936, -83.09981
+Brenda's Greens and Fruits, 42.355437, -83.21722
+Green Goodies, 42.375237, -83.07837
+kala's, 42.388786, -83.1918
+Shorts Garden, 42.426786, -83.14969
+Belle's, 42.331427, -83.0457538
+mattison, 42.355437, -83.21722
+geno, 42.355437, -83.21722
+Happy Growing, 42.394586, -83.24422
+GAP Fellowship Community Garden, 42.433703, -82.98068
+Healthy dining, 42.410487, -82.94348
+Kent family Garden, 42.355437, -83.21722
+Johnica's Garden, 42.425836, -82.90003
+Babette, 42.426786, -83.14969
+Small Faith Garden, 42.388786, -83.1918
+The Good Food Place, 42.355437, -83.21722
+Small Faith Garden, 42.388786, -83.1918
+J & M's  garden, 42.427636, -83.19547
+shirley's best, 42.410037, -83.05826
+Bill's Garden, 42.425236, -83.24902
+Buentello Jr Garden, 42.328338, -83.07805
+My Garden, 42.355437, -83.21722
+Urban Patch, 42.355437, -83.21722
+Dixon's Family Garden, 42.426786, -83.14969
+Fleur, 42.343787, -83.05879
+Lena's Garden, 42.427636, -83.19547
+Boykin Garden Oasis, 42.426786, -83.14969
+DaLyGrow, 42.331427, -83.0457538
+Spiritual Truth, 42.425236, -83.24902
+Shadow's Garden, 42.375237, -83.07837
+Puffin's Place, 42.394586, -83.24422
+marv's mARVEL, 42.396736, -83.14152
+brooks garden of light, 42.394586, -83.24422
+Miracle Hands, 42.421936, -83.09981
+Granny Jewels' love, 42.427636, -83.19547
+beyond baskets, 42.352837, -83.02449
+Hardy Bunch, 42.426786, -83.14969
+Mz.Haze Heavenly Harvest, 42.426786, -83.14969
+Minkyluv Food of love, 42.388786, -83.1918
+Jay & Josh's Love Garden, 42.331427, -83.0457538
+Timothy's Garden, 42.331427, -83.0457538
+Bobby's Garden, 42.375787, -83.10849
+Cooper, 42.348937, -83.08994
+Prince Hall Place Community Garden, 42.352837, -83.02449
+Williams Garden, 42.425236, -83.24902
+Fresh Veg, 42.375787, -83.10849
+Hurt, 42.536402, -82.95044
+Frederick Douglass Academy Garden, 42.348937, -83.08994
+ella, 42.338137, -83.12785
+erin's place, 42.426786, -83.14969
+BEULAH'S GARDEN, 42.426786, -83.14969
+ROSS-WELL GARDEN, 42.425236, -83.24902
+Gee's, 42.394586, -83.24422
+Fambro's Garden of Eden, 42.410487, -82.94348
+Garden of Eden, 42.410487, -82.94348
+Dessasure family, 42.277738, -83.1552
+Green Space, 42.427636, -83.19547
+greenery, 42.395904, -82.99632
+Harris-Burton, 42.425236, -83.24902
+chris's corner, 42.425236, -83.24902
+Janice, 42.375237, -83.07837
+urban garden, 42.410487, -82.94348
+The Garden of Eve, 42.368137, -82.99314
+urban garden, 42.410487, -82.94348
+urban garden, 42.410487, -82.94348
+sunshine, 42.375787, -83.10849
+Miranda J. Allen memorial garden, 42.425236, -83.24902
+Brooks-Pasha, 42.425236, -83.24902
+T Fresh Vegatable, 42.433703, -82.98068
+Tonys Garden, 42.426786, -83.14969
+Ruby Vege, 42.375787, -83.10849
+Honey's Garden, 42.499335, -83.22829
+Dorsey garden, 42.365337, -83.14254
+Lee's Garden, 42.396736, -83.14152
+Lainey's Grub, 42.375787, -83.10849
+Vivian's Garden, 42.426786, -83.14969
+Life Patch, 42.427636, -83.19547
+mariam's garden, 42.425236, -83.24902
+Weston's, 42.425236, -83.24902
+Dave's Garden, 42.394586, -83.24422
+DAG, 42.394586, -83.24422
+Genesis, 42.426786, -83.14969
+Burtons' Bed, 42.365337, -83.14254
+rottweiler guarded garden, 42.425236, -83.24902
+rottweiler guarded garden, 42.425236, -83.24902
+BLITZ 'S GLORY, 42.425836, -82.90003
+PD's  Garden, 42.427636, -83.19547
+Kizzie's garden, 42.396736, -83.14152
+Memorial Garden, 42.396736, -83.14152
+COMMUNITY GARDEN, 42.375787, -83.10849
+dessasure family garden, 42.277738, -83.1552
+Cumberland, 42.421936, -83.09981
+Mamma's Garden, 42.365337, -83.14254
+cumberlandway, 42.421936, -83.09981
+Marilyn's Garaden, 42.375787, -83.10849
+McKinstry St. Tiny Back Yard Garden, 42.307088, -83.11467
+Molly, 42.3149367, -83.0363633
+Moss Family, 42.3149367, -83.0363633
+Skoczycas, 42.3149367, -83.0363633
+Heaven, 42.3149367, -83.0363633
+Johnson Family, 42.3149367, -83.0363633
+McKissic Family, 42.3149367, -83.0363633
+Gillian Family, 42.3149367, -83.0363633
+Danny, 42.3149367, -83.0363633
+Chris, 42.3149367, -83.0363633
+Parks Family, 42.5835951, -82.82934230000001
+Mary's Garaden, 42.5835951, -82.82934230000001
+Everything, 42.375787, -83.10849
+Mel's Food, 42.375787, -83.10849
+Green, 42.388786, -83.1918
+garden, 42.6064095, -83.1497751
+Robin's Garden, 42.6064095, -83.1497751
+garden, 42.6064095, -83.1497751
+Myra's Garden, 42.426786, -83.14969
+Brown Family, 42.331427, -83.0457538
+Prosperity, 42.331427, -83.0457538
+America, 42.355437, -83.21722
+40, 42.331427, -83.0457538
+Family Harvest, 42.348937, -83.08994
+Angel, 42.375787, -83.10849
+Love, 42.426786, -83.14969
+love, 42.331427, -83.0457538
+Neicey, 42.331427, -83.0457538
+espie, 42.331427, -83.0457538
+cashmere, 42.331427, -83.0457538
+Blessed, 42.331427, -83.0457538
+Yes, 42.331427, -83.0457538
+Jenkins, 42.331427, -83.0457538
+mo media, 42.331427, -83.0457538
+garden, 42.331427, -83.0457538
+Walker Garden, 42.331427, -83.0457538
+Love, 42.331427, -83.0457538
+Jordan, 42.426786, -83.14969
+Howard, 42.410487, -82.94348
+Eden, 42.365337, -83.14254
+x, 42.375237, -83.07837
+Bolton Family, 42.331427, -83.0457538
+Bolton Family, 42.432686, -83.04422
+Home Grown Living, 42.331427, -83.0457538
+Tyus Family, 42.432686, -83.04422
+Al's Garden, 42.432686, -83.04422
+rosa, 42.432686, -83.04422
+Conway Garden, 42.395904, -82.99632
+Veggies For Life, 42.396736, -83.14152
+&quot;fourbabies&quot;, 42.368137, -82.99314
+rosa, 42.432686, -83.04422
+Nichols School Garden of Love, 42.465886, -83.056
+Dillard Garden, 42.433703, -82.98068
+Carr garden, 42.388786, -83.1918
+OGD, 42.395904, -82.99632
+The Michigan Urban Farming Initiative, 42.375237, -83.07837
+Nahnee's Veggies, 42.433703, -82.98068
+Divine Roots, 42.375237, -83.07837
+Kat's Best!!, 42.426786, -83.14969
+minecraft hunt family garden, 42.427636, -83.19547
+Micha's Veggies & Herbs, 42.277738, -83.1552
+Washington's, 42.421936, -83.09981
+lauras garden, 42.348937, -83.08994
+Stovall Flat, 42.348937, -83.08994
+Rogers Garden, 42.375787, -83.10849
+Nug garden, 42.375787, -83.10849
+Devellle, 42.375787, -83.10849
+sheri's patch, 42.410037, -83.05826
+richton, 42.375787, -83.10849
+Diggin' Life Garden, 42.425236, -83.24902
+PRAIRIE VIEW GARDENS, 42.426786, -83.14969
+Bond, 42.355437, -83.21722
+bond, 42.355437, -83.21722
+lo's land, 42.410037, -83.05826
+God Blessing, 42.355437, -83.21722
+Glass, 42.388786, -83.1918
+Dee's veggies, 42.426786, -83.14969
+Smith Veggie Bar, 42.375787, -83.10849
+G & I, 42.365337, -83.14254
+Tanya's Inspiration Garden, 42.1742073, -83.1793697
+Cair Garden, 42.410487, -82.94348
+Love, 42.395904, -82.99632
+Wells family, 42.467235, -83.17952
+Kourouma Family, 42.395904, -82.99632
+Jessica, 42.410487, -82.94348
+Pretty, 42.410487, -82.94348
+None, 42.388786, -83.1918
+None, 42.368137, -82.99314
+Mama's Parsdice, 42.368137, -82.99314
+4 Brother, 42.355437, -83.21722
+Hope, 42.365337, -83.14254
+Community Virginia PK, 42.375237, -83.07837
+Community Virginia PK, 42.375237, -83.07837
+Mine, 42.355437, -83.21722
+Mays Yard, 42.375787, -83.10849
+Simply Lovely, 42.375237, -83.07837
+Lovie, 42.396736, -83.14152
+Love, 42.425236, -83.24902
+Percy Garden, 42.365337, -83.14254
+Shea's, 42.375787, -83.10849
+Boyd's Garden, 42.426786, -83.14969
+Sage, 42.426786, -83.14969
+Spanish, 42.427636, -83.19547
+Love, 42.426786, -83.14969
+Love, 42.426786, -83.14969
+EP's Place, 42.426786, -83.14969
+Twin Mom Garden, 42.427636, -83.19547
+Natures Beauty, 42.394586, -83.24422
+Family, 42.388786, -83.1918
+Coco's, 42.427636, -83.19547
+Our Family, 42.427636, -83.19547
+Kendrick, 42.426786, -83.14969
+King, 42.365337, -83.14254
+Destiny's Place, 42.433703, -82.98068
+LIfe, 42.355437, -83.21722
+Auntie NA's, 42.365337, -83.14254
+Darrington Garden, 42.355437, -83.21722
+INA, 42.425236, -83.24902
+Gardner, 42.427636, -83.19547
+Granberry, 42.427636, -83.19547
+MJ's, 42.375237, -83.07837
+Jay's, 42.396736, -83.14152
+Crissy's, 42.425236, -83.24902
+Z Blessed, 42.426786, -83.14969
+Lee, 42.410037, -83.05826
+Garden of Love, 42.375787, -83.10849
+Beautiful One, 42.425236, -83.24902
+Heaven, 42.348937, -83.08994
+Cobb, 42.396736, -83.14152
+King Veggie, 42.426786, -83.14969
+Joy's Garden, 42.375787, -83.10849
+Smith Family, 42.375787, -83.10849
+My, 42.331821, -83.04888
+MEME, 42.355437, -83.21722
+green tranquility, 42.410487, -82.94348
+mimi's, 42.388786, -83.1918
+Love, 42.410487, -82.94348
+Elisha, 42.352837, -83.02449
+Shannon, 42.425236, -83.24902
+Dee Dee joy, 42.355437, -83.21722
+Eden, 42.375787, -83.10849
+Love, 42.396736, -83.14152
+Hernandez Farm, 42.307088, -83.11467
+Knott Family, 42.365337, -83.14254
+Rencher, 42.427636, -83.19547
+Love, 42.425236, -83.24902
+Webster Family, 42.375787, -83.10849
+Lolly's Edibles, 42.394586, -83.24422
+Henrie's, 42.375787, -83.10849
+Kuji house, 42.460986, -83.13398
+Rosa Parks Community Graden, 42.432686, -83.04422
+Home Free, 42.427636, -83.19547
+Emmy's Place, 42.427636, -83.19547
+Yes, 42.427636, -83.19547
+Shannon, 42.425236, -83.24902
+The Ellison, 42.375787, -83.10849
+The Wilson's Place, 42.432686, -83.04422
+Z's Place, 42.388786, -83.1918
+Dwyer Home Store, 42.396736, -83.14152
+Peace, 42.410487, -82.94348
+Wiley, 42.410487, -82.94348
+Nannies, 42.396736, -83.14152
+Olie's, 42.396736, -83.14152
+Mr. Heard's, 42.427636, -83.19547
+Wilson's, 42.421936, -83.09981
+Yes, 42.425236, -83.24902
+Lewis Garden, 42.433703, -82.98068
+Jeff Farm, 42.425236, -83.24902
+Mom's Garden, 42.425236, -83.24902
+Johnson food, 42.375237, -83.07837
+Berries House, 42.375787, -83.10849
+Gaies, 42.375787, -83.10849
+celestial9000, 42.375787, -83.10849
+4C, 42.338137, -83.12785
+My Small Green Garden, 42.375787, -83.10849
+Z, 42.379019, -83.04483
+Mark one, 42.388786, -83.1918
+Grandma's, 42.375787, -83.10849
+Barb's Plot, 42.425236, -83.24902
+Rosie's, 42.348937, -83.08994
+Help, 42.396736, -83.14152
+Cassie's Place, 42.427636, -83.19547
+Good Eat's, 42.425236, -83.24902
+Lowe's Farm, 42.410037, -83.05826
+Eva's Garden, 42.427636, -83.19547
+Home Free, 42.427636, -83.19547
+Emmy's Place, 42.427636, -83.19547
+Cassie's Place, 42.375787, -83.10849
+Marie's Plot, 42.427636, -83.19547
+Cassie's Place, 42.375787, -83.10849
+hickman garden, 42.427636, -83.19547
+hickman garden, 42.427636, -83.19547
+Donna's Sunny Spot, 42.394586, -83.24422
+Star Trek Land, 42.394586, -83.24422
+UDM Garden, 42.426786, -83.14969
+Westwood Garden, 42.394586, -83.24422
+Pearl, 42.394586, -83.24422
+Bernard3, 42.394586, -83.24422
+CJ's Family Garden, 42.388786, -83.1918
+Daniels Den, 42.365337, -83.14254
+Uncle Charles', 42.396736, -83.14152
+mega grow, 42.396736, -83.14152
+Suzanne's Sunshine, 42.425236, -83.24902
+Gwen's Place, 42.410487, -82.94348
+Eddile Garden, 42.524134, -83.25454
+Tellys, 42.609789, -83.04844
+Hope, 42.524134, -83.25454
+Garden Gyetvey, 42.254788, -83.21027
+Hope, 42.609789, -83.04844
+Maywood Street Community Garden, 42.395904, -82.99632
+Curtis St Garden, 42.425236, -83.24902
+Garden of Hope, 42.348937, -83.08994
+St Aubin Square, 42.352837, -83.02449
+Princess Onakapoma Farms, 42.352837, -83.02449
+Earth Spirit, 42.375237, -83.07837
+Andy's Garden, 42.426786, -83.14969
+Earth Spirit, 42.375237, -83.07837
+Ultimate YOU, 42.426786, -83.14969
+McNeal Garden, 42.338137, -83.12785
+Spencer Family, 42.396736, -83.14152
+Wall-Barnes, 42.375787, -83.10849
+DTS Adult Education West Campus, 42.427636, -83.19547
+Church Garden, 42.375237, -83.07837
+The Buddha Garden, 42.425836, -82.90003
+La Casa de Jardin, 42.433703, -82.98068

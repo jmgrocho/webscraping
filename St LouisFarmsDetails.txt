@@ -1,0 +1,36 @@
+Location:  38.594901, -90.2278
+Map Pin Type:  friendPin
+ID:  158
+Name:  Pierreplace
+Size:  small_10x10
+City:  St Louis
+State:  MO
+ZIP:  63118
+---------------------------------------------------
+Location:  38.580552, -90.26307
+Map Pin Type:  familyPin
+ID:  1818
+Name:  Julie's Garden
+Size:  large_over_20x20
+City:  St Louis
+State:  MO
+ZIP:  63116
+---------------------------------------------------
+Location:  0.3475964, 32.582519700000034
+Map Pin Type:  friendPin
+ID:  3327
+Name:  t
+Size:  planter_box_etc
+City:  t
+State:  AL
+ZIP:  1234
+---------------------------------------------------
+Location:  8.5336439, -83.30678019999999
+Map Pin Type:  familyPin
+ID:  3415
+Name:  barbara's green treat
+Size:  large_over_20x20
+City:  t
+State:  MI
+ZIP:  48083
+---------------------------------------------------

@@ -1,0 +1,174 @@
+Last updated:  Fri Nov 20 11:20:11 2015
+------------------------------------
+
+Location:  38.676851, -90.24009
+Map Pin Type:  friendPin
+ID:  15
+Name:  Wesley House
+Size:  medium_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63115
+---------------------------------------------------
+Location:  38.691901, -90.25992
+Map Pin Type:  friendPin
+ID:  17
+Name:  Walbridge CESS
+Size:  medium_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63120
+---------------------------------------------------
+Location:  38.631551, -90.193
+Map Pin Type:  friendPin
+ID:  31
+Name:  St Louis Rams
+Size:  medium_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63101
+---------------------------------------------------
+Location:  38.656701, -90.24397
+Map Pin Type:  friendPin
+ID:  55
+Name:  Lewis Place
+Size:  medium_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63113
+---------------------------------------------------
+Location:  38.559302, -90.25174
+Map Pin Type:  familyPin
+ID:  116
+Name:  My Veggie Garden
+Size:  medium_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63111
+---------------------------------------------------
+Location:  38.702651, -90.36109
+Map Pin Type:  familyPin
+ID:  336
+Name:  Reppert Family Garden
+Size:  medium_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63114
+---------------------------------------------------
+Location:  38.761214, -89.29128
+Map Pin Type:  communityPin
+ID:  1934
+Name:  Northside Community Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  62253
+---------------------------------------------------
+Location:  38.761214, -89.29128
+Map Pin Type:  communityPin
+ID:  1935
+Name:  Academy Garden
+Size:  farm
+City:  St. Louis
+State:  MO
+ZIP:  62253
+---------------------------------------------------
+Location:  38.6270025, -90.1994042
+Map Pin Type:  communityPin
+ID:  1936
+Name:  Walnut Park Social Garden and Pumpkin Patch
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  65523
+---------------------------------------------------
+Location:  32.6245389, -115.45226230000003
+Map Pin Type:  friendPin
+ID:  3111
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  2.993518, 101.78740579999999
+Map Pin Type:  friendPin
+ID:  3112
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  50.82253000000001, -0.13716299999998682
+Map Pin Type:  friendPin
+ID:  3113
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  47.997542, -4.097898999999984
+Map Pin Type:  friendPin
+ID:  3115
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  48.2081743, 16.37381890000006
+Map Pin Type:  friendPin
+ID:  3116
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  -4.0434771, 39.6682065
+Map Pin Type:  friendPin
+ID:  3120
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  39.3610189, 9.004760199999964
+Map Pin Type:  friendPin
+ID:  3121
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  39.2915003, 8.997758299999987
+Map Pin Type:  friendPin
+ID:  3122
+Name:  Frisco Feng Shui Garden
+Size:  large_over_20x20
+City:  St. Louis
+State:  MO
+ZIP:  63119
+---------------------------------------------------
+Location:  0.3475964, 32.582519700000034
+Map Pin Type:  friendPin
+ID:  3327
+Name:  t
+Size:  planter_box_etc
+City:  t
+State:  AL
+ZIP:  1234
+---------------------------------------------------
+Location:  8.5336439, -83.30678019999999
+Map Pin Type:  familyPin
+ID:  3415
+Name:  barbara's green treat
+Size:  large_over_20x20
+City:  t
+State:  MI
+ZIP:  48083
+---------------------------------------------------

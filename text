@@ -1,0 +1,1949 @@
+
+JSON Dumps:
+{
+ "statuses": [
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "job",
+      "indices": [
+       4,
+       8
+      ]
+     },
+     {
+      "text": "Boston",
+      "indices": [
+       49,
+       56
+      ]
+     },
+     {
+      "text": "Lead",
+      "indices": [
+       59,
+       64
+      ]
+     },
+     {
+      "text": "J2EE",
+      "indices": [
+       65,
+       70
+      ]
+     },
+     {
+      "text": "jobs",
+      "indices": [
+       80,
+       85
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://neuvoo.com/job.php?id=kbi9n8jcig&source=twitter&lang=en&client_id=595&
+l=Boston%2C+Massachusetts%2C+US&k=Lead+J2EE+Engineer",
+      "display_url": "neuvoo.com/job.php?id=kbi\u2026",
+      "url": "https://t.co/JPnGE0eHJG",
+      "indices": [
+       86,
+       109
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Boston, Massachusetts",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 0,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://neuvoo.com/jobs/?k=Engineering&l=Boston%2C+Massachusetts&r=15",
+        "display_url": "neuvoo.com/jobs/?k=Engine\u2026",
+        "url": "http://t.co/MVomwiiOYR",
+        "indices": [
+         0,
+         22
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": [
+       {
+        "expanded_url": "http://neuvoo.com/jobs/?k=Engineering&l=Boston%2C+Massachusetts&r=15",
+        "display_url": "neuvoo.com/jobs/?k=Engine\u2026",
+        "url": "http://t.co/MVomwiiOYR",
+        "indices": [
+         65,
+         87
+        ]
+       }
+      ]
+     }
+    },
+    "friends_count": 1422,
+    "utc_offset": null,
+    "name": "Engineering Boston",
+    "followers_count": 836,
+    "geo_enabled": false,
+    "statuses_count": 15702,
+    "is_translation_enabled": false,
+    "time_zone": null,
+    "listed_count": 212,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/585074149686665216/9agyP6zZ_nor
+mal.png",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "3140467510",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Apr 06 13:38:16 +0000 2015",
+    "lang": "en",
+    "screen_name": "NeuvooEngBos",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 3140467510,
+    "description": "Looking for an Engineering job  in Boston? Check out our website http://t.co/MVo
+mwiiOYR",
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140467510/1428330020",
+    "url": "http://t.co/MVomwiiOYR",
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/585074149686665216/9agyP6zZ_normal.png
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://neuvoo.ca\" rel=\"nofollow\">seed.mytweetsys.app.t00</a>",
+   "lang": "en",
+   "text": "New #job opening at Houghton Mifflin Harcourt in #Boston - #Lead #J2EE Engineer #jobs ht
+tps://t.co/JPnGE0eHJG",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 17:03:17 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327983720108032,
+   "id_str": "658327983720108032",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "name": "The New Yorker",
+      "indices": [
+       0,
+       10
+      ],
+      "screen_name": "NewYorker",
+      "id": 14677919,
+      "id_str": "14677919"
+     }
+    ],
+    "urls": []
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Arizona",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 97,
+    "contributors_enabled": false,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 145,
+    "utc_offset": -25200,
+    "name": "blair houghton",
+    "followers_count": 289,
+    "geo_enabled": false,
+    "statuses_count": 27804,
+    "is_translation_enabled": false,
+    "time_zone": "Arizona",
+    "listed_count": 21,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/299950134/ls_3199_shimano-105-i
+ranian-green_normal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "following": null,
+    "id_str": "15740987",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/292523101
+/IMG_20110717_192701.jpg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Tue Aug 05 20:06:25 +0000 2008",
+    "lang": "en",
+    "screen_name": "blair_houghton",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/292523101/IMG_20
+110717_192701.jpg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 15740987,
+    "description": "Rocket Scientist",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": null,
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/299950134/ls_3199_shimano-105-iranian-
+green_normal.jpg"
+   },
+   "in_reply_to_status_id": 658178893115977728,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "@NewYorker And farthered the principals of usage therefor.",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 17:02:45 +0000 2015",
+   "truncated": false,
+   "in_reply_to_status_id_str": "658178893115977728",
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": "14677919",
+   "in_reply_to_screen_name": "NewYorker",
+   "id": 658327852962574336,
+   "id_str": "658327852962574336",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": 14677919,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "media": [
+     {
+      "type": "photo",
+      "id": 658325315605929984,
+      "expanded_url": "http://twitter.com/itvtynetees/status/658325316738371584/photo/1",
+      "source_user_id": 126060716,
+      "sizes": {
+       "large": {
+        "resize": "fit",
+        "h": 576,
+        "w": 1024
+       },
+       "small": {
+        "resize": "fit",
+        "h": 191,
+        "w": 340
+       },
+       "thumb": {
+        "resize": "crop",
+        "h": 150,
+        "w": 150
+       },
+       "medium": {
+        "resize": "fit",
+        "h": 337,
+        "w": 600
+       }
+      },
+      "source_user_id_str": "126060716",
+      "source_status_id_str": "658325316738371584",
+      "display_url": "pic.twitter.com/A88lFxGzvG",
+      "source_status_id": 658325316738371584,
+      "indices": [
+       93,
+       116
+      ],
+      "url": "https://t.co/A88lFxGzvG",
+      "media_url_https": "https://pbs.twimg.com/media/CSLXYvdWoAA9akP.jpg",
+      "media_url": "http://pbs.twimg.com/media/CSLXYvdWoAA9akP.jpg",
+      "id_str": "658325315605929984"
+     }
+    ],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "name": "ITV News Tyne Tees",
+      "indices": [
+       3,
+       15
+      ],
+      "screen_name": "itvtynetees",
+      "id": 126060716,
+      "id_str": "126060716"
+     }
+    ],
+    "urls": [
+     {
+      "expanded_url": "http://www.itv.com/news/tyne-tees/update/2015-10-25/police-appeal-after-colli
+sion-in-houghton-le-spring/",
+      "display_url": "itv.com/news/tyne-tees\u2026",
+      "url": "https://t.co/KLp0LP6C5S",
+      "indices": [
+       69,
+       92
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Chester-le-Street, England",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 7124,
+    "contributors_enabled": false,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 1968,
+    "utc_offset": null,
+    "name": "Stewart Bailey",
+    "followers_count": 1640,
+    "geo_enabled": true,
+    "statuses_count": 17751,
+    "is_translation_enabled": false,
+    "time_zone": null,
+    "listed_count": 50,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/568172243327660033/z-J_feIm_nor
+mal.jpeg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "1571369580",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri Jul 05 21:35:30 +0000 2013",
+    "lang": "en",
+    "screen_name": "PignMixSweetCo",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 1571369580,
+    "description": "Owner - The best value for money sweet company in the North East.",
+    "default_profile": true,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": null,
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/568172243327660033/z-J_feIm_normal.jpe
+g"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</
+a>",
+   "lang": "en",
+   "text": "RT @itvtynetees: Police appeal after collision in Houghton le Spring https://t.co/KLp0LP
+6C5S https://t.co/A88lFxGzvG",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 17:01:54 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327635467046912,
+   "id_str": "658327635467046912",
+   "retweeted_status": {
+    "contributors": null,
+    "place": null,
+    "entities": {
+     "symbols": [],
+     "media": [
+      {
+       "type": "photo",
+       "expanded_url": "http://twitter.com/itvtynetees/status/658325316738371584/photo/1",
+       "indices": [
+        76,
+        99
+       ],
+       "url": "https://t.co/A88lFxGzvG",
+       "media_url_https": "https://pbs.twimg.com/media/CSLXYvdWoAA9akP.jpg",
+       "media_url": "http://pbs.twimg.com/media/CSLXYvdWoAA9akP.jpg",
+       "display_url": "pic.twitter.com/A88lFxGzvG",
+       "id": 658325315605929984,
+       "sizes": {
+        "large": {
+         "resize": "fit",
+         "h": 576,
+         "w": 1024
+        },
+        "small": {
+         "resize": "fit",
+         "h": 191,
+         "w": 340
+        },
+        "thumb": {
+         "resize": "crop",
+         "h": 150,
+         "w": 150
+        },
+        "medium": {
+         "resize": "fit",
+         "h": 337,
+         "w": 600
+        }
+       },
+       "id_str": "658325315605929984"
+      }
+     ],
+     "hashtags": [],
+     "user_mentions": [],
+     "urls": [
+      {
+       "expanded_url": "http://www.itv.com/news/tyne-tees/update/2015-10-25/police-appeal-after-coll
+ision-in-houghton-le-spring/",
+       "display_url": "itv.com/news/tyne-tees\u2026",
+       "url": "https://t.co/KLp0LP6C5S",
+       "indices": [
+        52,
+        75
+       ]
+      }
+     ]
+    },
+    "coordinates": null,
+    "user": {
+     "location": "North East, England",
+     "profile_background_color": "FFFFFF",
+     "favourites_count": 605,
+     "contributors_enabled": false,
+     "entities": {
+      "url": {
+       "urls": [
+        {
+         "expanded_url": "http://www.itv.com/tynetees",
+         "display_url": "itv.com/tynetees",
+         "url": "http://t.co/jTkLbNVFJm",
+         "indices": [
+          0,
+          22
+         ]
+        }
+       ]
+      },
+      "description": {
+       "urls": [
+        {
+         "expanded_url": "http://Instagram.com/itvtynetees",
+         "display_url": "Instagram.com/itvtynetees",
+         "url": "http://t.co/iUAA9swvse",
+         "indices": [
+          130,
+          152
+         ]
+        }
+       ]
+      }
+     },
+     "friends_count": 7367,
+     "utc_offset": 0,
+     "name": "ITV News Tyne Tees",
+     "followers_count": 41675,
+     "geo_enabled": true,
+     "statuses_count": 20897,
+     "is_translation_enabled": false,
+     "time_zone": "London",
+     "listed_count": 373,
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/3105976865/17bab587f151975ca4a
+e9f6a1cab7c56_normal.png",
+     "profile_link_color": "006473",
+     "notifications": null,
+     "profile_background_tile": false,
+     "protected": false,
+     "following": null,
+     "id_str": "126060716",
+     "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/76329216
+8/d685910aee9119a7871f3eda6bf6c205.jpeg",
+     "verified": true,
+     "profile_sidebar_border_color": "FFFFFF",
+     "created_at": "Wed Mar 24 18:25:08 +0000 2010",
+     "lang": "en",
+     "screen_name": "itvtynetees",
+     "default_profile_image": false,
+     "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/763292168/d6859
+10aee9119a7871f3eda6bf6c205.jpeg",
+     "profile_sidebar_fill_color": "DDEEF6",
+     "id": 126060716,
+     "description": "News, Sport & Weather for Northumberland, Tyne and Wear, Durham, Teesside and N
+orth Yorkshire. Weekdays 6pm. Replies used on air. http://t.co/iUAA9swvse",
+     "follow_request_sent": null,
+     "default_profile": false,
+     "is_translator": false,
+     "profile_text_color": "333333",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/126060716/1436128981",
+     "url": "http://t.co/jTkLbNVFJm",
+     "has_extended_profile": false,
+     "profile_use_background_image": true,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/3105976865/17bab587f151975ca4ae9f6a1c
+ab7c56_normal.png"
+    },
+    "in_reply_to_status_id": null,
+    "geo": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "lang": "en",
+    "text": "Police appeal after collision in Houghton le Spring https://t.co/KLp0LP6C5S https://t.c
+o/A88lFxGzvG",
+    "favorited": false,
+    "is_quote_status": false,
+    "created_at": "Sun Oct 25 16:52:41 +0000 2015",
+    "truncated": false,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id_str": null,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "id": 658325316738371584,
+    "id_str": "658325316738371584",
+    "metadata": {
+     "result_type": "recent",
+     "iso_language_code": "en"
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "retweet_count": 2
+   },
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 2
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "name": "Northumbria Police",
+      "indices": [
+       0,
+       15
+      ],
+      "screen_name": "northumbriapol",
+      "id": 26461339,
+      "id_str": "26461339"
+     }
+    ],
+    "urls": []
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Sunderland",
+    "profile_background_color": "ACDED6",
+    "favourites_count": 1241,
+    "contributors_enabled": false,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 117,
+    "utc_offset": -36000,
+    "name": "Karen Berry",
+    "followers_count": 243,
+    "geo_enabled": false,
+    "statuses_count": 4644,
+    "is_translation_enabled": false,
+    "time_zone": "Hawaii",
+    "listed_count": 16,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/624675658900340736/D_umm2au_nor
+mal.jpg",
+    "profile_link_color": "038543",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "229505633",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "verified": false,
+    "profile_sidebar_border_color": "EEEEEE",
+    "created_at": "Wed Dec 22 15:40:10 +0000 2010",
+    "lang": "en",
+    "screen_name": "klkirkup",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "id": 229505633,
+    "description": "Proud Mam of two. Wife. Views my own...you know the drill!",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": null,
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/624675658900340736/D_umm2au_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>
+",
+   "lang": "en",
+   "text": "@northumbriapol 12 curtain sided vans parked up in lay by Houghton Cut east bound. Up fr
+om 4 earlier in week. Very strange behaviour.",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 17:01:29 +0000 2015",
+   "truncated": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": "26461339",
+   "in_reply_to_screen_name": "northumbriapol",
+   "id": 658327530894704642,
+   "id_str": "658327530894704642",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": 26461339,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "spookychurch",
+      "indices": [
+       8,
+       21
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "https://instagram.com/p/9RKdnjxRj0/",
+      "display_url": "instagram.com/p/9RKdnjxRj0/",
+      "url": "https://t.co/4ZR4zEKBHi",
+      "indices": [
+       96,
+       119
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Long Buckby, England",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 193,
+    "contributors_enabled": false,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 631,
+    "utc_offset": 0,
+    "name": "Paul Keen",
+    "followers_count": 397,
+    "geo_enabled": false,
+    "statuses_count": 3464,
+    "is_translation_enabled": false,
+    "time_zone": "London",
+    "listed_count": 6,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/640860766250381312/z2ZEKbhL_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "20435119",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Feb 09 13:36:46 +0000 2009",
+    "lang": "en",
+    "screen_name": "spacedyemeerkat",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 20435119,
+    "description": "Gamer, rocker, atheist, womble. Cyclist, (Gibson) guitar player, astronomer. Eng
+lish Browns fan. Not a spaced meerkat. My tweets, my views; RTs may not be.",
+    "follow_request_sent": null,
+    "default_profile": true,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20435119/1441628190",
+    "url": null,
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/640860766250381312/z2ZEKbhL_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+   "lang": "en",
+   "text": "Another #spookychurch on a Sunday morning bike ride, this time in Little Houghton just o
+utside\u2026 https://t.co/4ZR4zEKBHi",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 17:00:35 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327307111763968,
+   "id_str": "658327307111763968",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "name": "Houghton FC",
+      "indices": [
+       0,
+       12
+      ],
+      "screen_name": "houghton_fc",
+      "id": 3496806733,
+      "id_str": "3496806733"
+     }
+    ],
+    "urls": [
+     {
+      "expanded_url": "http://www.ev2sportswear.com/kitbuilder/#/",
+      "display_url": "ev2sportswear.com/kitbuilder/#/",
+      "url": "https://t.co/5k2tTdUPjD",
+      "indices": [
+       112,
+       135
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Leeds - 01132 526770",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 1504,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": null,
+        "indices": [
+         0,
+         28
+        ],
+        "url": "http://www.ev2sportswear.com"
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 9637,
+    "utc_offset": 0,
+    "name": "EV2 Sportswear",
+    "followers_count": 8857,
+    "geo_enabled": false,
+    "statuses_count": 37109,
+    "is_translation_enabled": false,
+    "time_zone": "London",
+    "listed_count": 26,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/521718054888431616/ETrkKcZw_nor
+mal.jpeg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "following": null,
+    "id_str": "287111314",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440050932
+/benj.jpg",
+    "verified": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Sun Apr 24 10:18:06 +0000 2011",
+    "lang": "en",
+    "screen_name": "EV2Sportswear",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440050932/benj.j
+pg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 287111314,
+    "description": "Leading Sportswear Manufacturer In The UK. Supply All Sports! Pround Suppliers T
+o @Chorleyfc @Blyth_Spartans @Halifax_RLFC Sales@ev2sportswear.co.uk",
+    "follow_request_sent": null,
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/287111314/1424513972",
+    "url": "http://www.ev2sportswear.com",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/521718054888431616/ETrkKcZw_normal.jpe
+g"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>
+",
+   "lang": "en",
+   "text": "@houghton_fc Please follow! Check out our sale on teamwear and our part sponsored kits! 
+Also design yours here! https://t.co/5k2tTdUPjD",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 17:00:11 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": "3496806733",
+   "in_reply_to_screen_name": "houghton_fc",
+   "id": 658327203537645569,
+   "id_str": "658327203537645569",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": 3496806733,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/t1DNidTjzj",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "New York",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 4,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 780,
+    "utc_offset": -25200,
+    "name": "New York News",
+    "followers_count": 500,
+    "geo_enabled": false,
+    "statuses_count": 13522,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 82,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630815795954761728/kIkgi7Ef_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2211991137",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+152035024/3xcf-8RM.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sat Dec 07 10:52:19 +0000 2013",
+    "lang": "en",
+    "screen_name": "newyork_news6",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001520350
+24/3xcf-8RM.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2211991137,
+    "description": "New York celebrity news",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630815795954761728/kIkgi7Ef_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/t1DNidTjzj #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:56 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327142162386944,
+   "id_str": "658327142162386944",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/6iZRKR02ZI",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "New York",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 2,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 998,
+    "utc_offset": -25200,
+    "name": "New York Celebs",
+    "followers_count": 331,
+    "geo_enabled": false,
+    "statuses_count": 13432,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 14,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630812617620197376/TYLtuuek_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2247747891",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+162363584/GgzZWcOI.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sat Dec 28 09:11:55 +0000 2013",
+    "lang": "en",
+    "screen_name": "newyorkcelebs2",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001623635
+84/GgzZWcOI.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2247747891,
+    "description": "New York celebrity photos",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630812617620197376/TYLtuuek_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/6iZRKR02ZI #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:55 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327136474935297,
+   "id_str": "658327136474935297",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/k4eMsmAaT6",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Los Angeles",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 3,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 943,
+    "utc_offset": -25200,
+    "name": "Los Angeles Day",
+    "followers_count": 330,
+    "geo_enabled": false,
+    "statuses_count": 12949,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 16,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630810898500751364/ehBgzY5o_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2246454772",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+162359133/I4wT5fb8.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri Dec 27 16:30:51 +0000 2013",
+    "lang": "en",
+    "screen_name": "losangeles_day4",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001623591
+33/I4wT5fb8.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2246454772,
+    "description": "Los Angeles celebrity in bikini",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630810898500751364/ehBgzY5o_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/k4eMsmAaT6 #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:52 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327124944789505,
+   "id_str": "658327124944789505",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/Hl0Dusmy4R",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Los Angeles",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 2,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 662,
+    "utc_offset": -25200,
+    "name": "Los Angeles Celebs",
+    "followers_count": 498,
+    "geo_enabled": false,
+    "statuses_count": 13535,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 79,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630809640578592768/o27o7Jel_nor
+mal.jpg",
+    "profile_link_color": "F5ABB5",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2219789997",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+152504677/DiB9aFig.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Dec 11 16:20:37 +0000 2013",
+    "lang": "en",
+    "screen_name": "losangeles_pic9",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001525046
+77/DiB9aFig.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2219789997,
+    "description": "Los Angeles celeb photos",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630809640578592768/o27o7Jel_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/Hl0Dusmy4R #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:51 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327119659991040,
+   "id_str": "658327119659991040",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/9a4kk702UX",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Los Angeles",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 2,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 798,
+    "utc_offset": -25200,
+    "name": "Los Angeles Pics",
+    "followers_count": 505,
+    "geo_enabled": false,
+    "statuses_count": 13650,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 93,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630808414084423680/JLylubHn_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2217053699",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+151977830/5tj7u-3e.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Tue Dec 10 06:40:45 +0000 2013",
+    "lang": "en",
+    "screen_name": "losangelespics6",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001519778
+30/5tj7u-3e.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2217053699,
+    "description": "Los Angeles celebrity photos",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630808414084423680/JLylubHn_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/9a4kk702UX #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:49 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327112609304576,
+   "id_str": "658327112609304576",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/SG4UCSbv7x",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Miami",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 3,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 670,
+    "utc_offset": -25200,
+    "name": "Bikini Celebs",
+    "followers_count": 492,
+    "geo_enabled": false,
+    "statuses_count": 13620,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 75,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630806624458838016/-I9j60Kv_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2220000634",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+151983793/VeaH4sdk.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Dec 11 18:27:57 +0000 2013",
+    "lang": "en",
+    "screen_name": "bikini_celebs8",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001519837
+93/VeaH4sdk.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2220000634,
+    "description": "Celebrity in bikini photos",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630806624458838016/-I9j60Kv_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/SG4UCSbv7x #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:46 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327101326671872,
+   "id_str": "658327101326671872",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/xPBmhCnmye",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Miami",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 2,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 895,
+    "utc_offset": -25200,
+    "name": "Miami Bikini",
+    "followers_count": 490,
+    "geo_enabled": false,
+    "statuses_count": 13538,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 79,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630803804875845632/lgimcWj8_nor
+mal.jpg",
+    "profile_link_color": "F5ABB5",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2215715289",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+152334800/CjB1GzHr.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Dec 09 13:03:48 +0000 2013",
+    "lang": "en",
+    "screen_name": "miami_bikini4",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001523348
+00/CjB1GzHr.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2215715289,
+    "description": "Miami bikini photos",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630803804875845632/lgimcWj8_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/xPBmhCnmye #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:44 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327090245279744,
+   "id_str": "658327090245279744",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [
+     {
+      "text": "ChantelleHoughton",
+      "indices": [
+       81,
+       99
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "urls": [
+     {
+      "expanded_url": "http://celebsla.com/chantelle-houghton-in-bikini-on-a-boat-in-spain/chantelle
+-houghton-in-bikini-on-a-boat-in-spain-5/",
+      "display_url": "celebsla.com/chantelle-houg\u2026",
+      "url": "https://t.co/TWrSJ7b2If",
+      "indices": [
+       57,
+       80
+      ]
+     }
+    ]
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Miami",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 2,
+    "contributors_enabled": false,
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "expanded_url": "http://celebsla.com/",
+        "display_url": "celebsla.com",
+        "url": "https://t.co/LPXPkpploy",
+        "indices": [
+         0,
+         23
+        ]
+       }
+      ]
+     },
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 723,
+    "utc_offset": -25200,
+    "name": "Miami Celebs",
+    "followers_count": 496,
+    "geo_enabled": false,
+    "statuses_count": 13546,
+    "is_translation_enabled": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "listed_count": 63,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630802429953593344/ddZCsIMB_nor
+mal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "following": null,
+    "id_str": "2212160501",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000
+152286241/jp-x89Uv.jpeg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sat Dec 07 13:05:29 +0000 2013",
+    "lang": "en",
+    "screen_name": "miami_celebs6",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3788000001522862
+41/jp-x89Uv.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 2212160501,
+    "description": "Miami celebrity photos",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": "https://t.co/LPXPkpploy",
+    "has_extended_profile": false,
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630802429953593344/ddZCsIMB_normal.jpg
+"
+   },
+   "in_reply_to_status_id": null,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/TWrSJ7b2If #Chante
+lleHoughton",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:59:42 +0000 2015",
+   "truncated": false,
+   "possibly_sensitive": false,
+   "in_reply_to_status_id_str": null,
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "id": 658327083005911041,
+   "id_str": "658327083005911041",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": null,
+   "retweet_count": 0
+  },
+  {
+   "contributors": null,
+   "place": null,
+   "entities": {
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+     {
+      "name": "Steve Martin",
+      "indices": [
+       0,
+       16
+      ],
+      "screen_name": "SteveMartinToGo",
+      "id": 14824849,
+      "id_str": "14824849"
+     }
+    ],
+    "urls": []
+   },
+   "coordinates": null,
+   "user": {
+    "location": "Arizona",
+    "profile_background_color": "C0DEED",
+    "favourites_count": 97,
+    "contributors_enabled": false,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "friends_count": 145,
+    "utc_offset": -25200,
+    "name": "blair houghton",
+    "followers_count": 289,
+    "geo_enabled": false,
+    "statuses_count": 27804,
+    "is_translation_enabled": false,
+    "time_zone": "Arizona",
+    "listed_count": 21,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/299950134/ls_3199_shimano-105-i
+ranian-green_normal.jpg",
+    "profile_link_color": "0084B4",
+    "notifications": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "following": null,
+    "id_str": "15740987",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/292523101
+/IMG_20110717_192701.jpg",
+    "verified": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Tue Aug 05 20:06:25 +0000 2008",
+    "lang": "en",
+    "screen_name": "blair_houghton",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/292523101/IMG_20
+110717_192701.jpg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "id": 15740987,
+    "description": "Rocket Scientist",
+    "default_profile": false,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "url": null,
+    "has_extended_profile": false,
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/299950134/ls_3199_shimano-105-iranian-
+green_normal.jpg"
+   },
+   "in_reply_to_status_id": 658267961296334848,
+   "geo": null,
+   "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "lang": "en",
+   "text": "@SteveMartinToGo Batteries. Product not included.",
+   "favorited": false,
+   "is_quote_status": false,
+   "created_at": "Sun Oct 25 16:58:50 +0000 2015",
+   "truncated": false,
+   "in_reply_to_status_id_str": "658267961296334848",
+   "favorite_count": 0,
+   "in_reply_to_user_id_str": "14824849",
+   "in_reply_to_screen_name": "SteveMartinToGo",
+   "id": 658326864625188864,
+   "id_str": "658326864625188864",
+   "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "en"
+   },
+   "retweeted": false,
+   "in_reply_to_user_id": 14824849,
+   "retweet_count": 0
+  }
+ ],
+ "search_metadata": {
+  "since_id": 0,
+  "query": "Houghton",
+  "max_id": 658327983720108032,
+  "count": 15,
+  "max_id_str": "658327983720108032",
+  "completed_in": 0.059,
+  "since_id_str": "0",
+  "refresh_url": "?since_id=658327983720108032&q=Houghton&include_entities=1",
+  "next_results": "?max_id=658326864625188863&q=Houghton&include_entities=1"
+ }
+}
+
+ * * * * End of JSON dumps * * * * 
+
+
+DUmp type:  <class 'str'>
+
+
+Results type:  <class 'twitter.api.TwitterDictResponse'>
+Results Keys:  dict_keys(['statuses', 'search_metadata']) 
+The number of trends in the response for Houghton is 15
+
+List of world trends:
+['New #job opening at Houghton Mifflin Harcourt in #Boston - #Lead #J2EE Engineer #jobs https://t.co
+/JPnGE0eHJG', '@NewYorker And farthered the principals of usage therefor.', 'RT @itvtynetees: Police
+ appeal after collision in Houghton le Spring https://t.co/KLp0LP6C5S https://t.co/A88lFxGzvG', '@no
+rthumbriapol 12 curtain sided vans parked up in lay by Houghton Cut east bound. Up from 4 earlier in
+ week. Very strange behaviour.', 'Another #spookychurch on a Sunday morning bike ride, this time in 
+Little Houghton just outside… https://t.co/4ZR4zEKBHi', '@houghton_fc Please follow! Check out our s
+ale on teamwear and our part sponsored kits! Also design yours here! https://t.co/5k2tTdUPjD', 'Chan
+telle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/t1DNidTjzj #ChantelleHoughton', 'C
+hantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/6iZRKR02ZI #ChantelleHoughton',
+ 'Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/k4eMsmAaT6 #ChantelleHoughto
+n', 'Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/Hl0Dusmy4R #ChantelleHoug
+hton', 'Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/9a4kk702UX #ChantelleH
+oughton', 'Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/SG4UCSbv7x #Chantel
+leHoughton', 'Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/xPBmhCnmye #Chan
+telleHoughton', 'Chantelle Houghton in Bikini on a Boat in Spain PHOTOS - https://t.co/TWrSJ7b2If #C
+hantelleHoughton', '@SteveMartinToGo Batteries. Product not included.']
